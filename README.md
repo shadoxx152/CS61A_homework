@@ -9,6 +9,6 @@ This repository is for educational purposes only. The code is intended to help o
 
 ## Acknowledgments
 
-- [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) - The course that inspired this repository.
+- [CS61A: Structure and Interpretation of Computer Programs](https://cs61a.org) - The course that inspired this repository.
 - John DeNero, professor in the Computer Science department at University of California Berkeley   
 ([His YouTube homepage](https://www.youtube.com/@JohnDeNero))
